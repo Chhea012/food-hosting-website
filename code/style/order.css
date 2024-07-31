@@ -74,6 +74,10 @@ nav ul a :hover {
     font-size: 25px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+a{
+    text-decoration: none;
+    
+}
 
 .item-1 button {
     color: white;
